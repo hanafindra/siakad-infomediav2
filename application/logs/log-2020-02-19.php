@@ -41,3 +41,19 @@ ERROR - 2020-02-19 06:15:27 --> 404 Page Not Found: Assets/frontend
 ERROR - 2020-02-19 06:17:18 --> 404 Page Not Found: Assets/frontend
 ERROR - 2020-02-19 06:17:43 --> 404 Page Not Found: Assets/frontend
 ERROR - 2020-02-19 06:18:31 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-02-19 08:09:12 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 494
+ERROR - 2020-02-19 08:10:35 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 494
+ERROR - 2020-02-19 08:10:36 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 494
+ERROR - 2020-02-19 08:10:37 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 494
+ERROR - 2020-02-19 08:10:38 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 494
+ERROR - 2020-02-19 08:11:17 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 494
+ERROR - 2020-02-19 08:11:30 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 494
+ERROR - 2020-02-19 08:12:08 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 494
+ERROR - 2020-02-19 08:12:13 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 494
+ERROR - 2020-02-19 08:12:17 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 494
+ERROR - 2020-02-19 08:12:25 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-02-19 08:12:31 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 494
+ERROR - 2020-02-19 08:12:35 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 494
+ERROR - 2020-02-19 08:12:39 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 494
+ERROR - 2020-02-19 08:19:16 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 493
+ERROR - 2020-02-19 08:19:18 --> Severity: error --> Exception: syntax error, unexpected '===' (T_IS_IDENTICAL), expecting end of file C:\xampp\htdocs\siakad-infomediav2\application\controllers\Teacher.php 493

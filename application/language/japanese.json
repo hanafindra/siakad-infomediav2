@@ -491,5 +491,13 @@
     "upload_small_logo": "Upload small logo",
     "favicon": "Favicon",
     "upload_favicon": "Upload favicon",
-    "logo_updated_successfully": "Logo updated successfully"
+    "logo_updated_successfully": "Logo updated successfully",
+    "facebook_profile_link": "Facebook profile link",
+    "twitter_profile_link": "Twitter profile link",
+    "linkedin_profile_link": "Linkedin profile link",
+    "provide_a_small_about": "Provide a small about",
+    "show_on_website": "Show on website",
+    "do_not_need_to_show": "Do not need to show",
+    "show_this_teacher_on_website": "Show this teacher on website",
+    "upload_image": "Upload image"
 }
