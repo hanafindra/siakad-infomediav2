@@ -34,31 +34,6 @@ $links = json_decode($social);
         <!-- List Group -->
         <ul class="list-group list-group-flush list-group-borderless mb-0">
           <li><a class="list-group-item list-group-item-action"
-<<<<<<< HEAD
-            href="<?php echo site_url('home/about');?>">About</a></li>
-            <li><a class="list-group-item list-group-item-action"
-              href="<?php echo site_url('home/teachers');?>">Teachers </a></li>
-              <li><a class="list-group-item list-group-item-action"
-                href="<?php echo site_url('home/gallery');?>">Gallery </a></li>
-              </ul>
-              <!-- End List Group -->
-            </div>
-
-            <div class="col-sm-3 col-lg-2 order-sm-3 mb-4 mb-sm-0">
-              <h4 class="h6 font-weight-semi-bold">Resources</h4>
-
-              <!-- List Group -->
-              <ul class="list-group list-group-flush list-group-borderless mb-0">
-                <li><a class="list-group-item list-group-item-action"
-                  href="<?php echo site_url('home/terms_conditions');?>">Terms & Conditions</a></li>
-                  <li><a class="list-group-item list-group-item-action"
-                    href="<?php echo site_url('home/privacy_policy');?>">Privacy Policy</a></li>
-                    <li><a class="list-group-item list-group-item-action" target="_blank"
-                      href="<?php echo site_url('login');?>">Login</a></li>
-                    </ul>
-                    <!-- End List Group -->
-                  </div>
-=======
             href="<?php echo site_url('home/about');?>">Tentang</a></li>
           <li><a class="list-group-item list-group-item-action"
             href="<?php echo site_url('home/teachers');?>">Guru</a></li>
@@ -82,7 +57,6 @@ $links = json_decode($social);
         </ul>
         <!-- End List Group -->
       </div>
->>>>>>> e5e243259b5018699de5cc135fabe25e8846865a
 
                   <!-- ALUMNI CONTENT IF ADDON IS AVAILABLE STARTS -->
                     <?php if (addon_status('alumni')): ?>

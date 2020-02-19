@@ -37,3 +37,7 @@ ERROR - 2020-02-19 06:02:23 --> 404 Page Not Found: Assets/frontend
 ERROR - 2020-02-19 06:02:39 --> 404 Page Not Found: Assets/frontend
 ERROR - 2020-02-19 06:03:00 --> 404 Page Not Found: Assets/frontend
 ERROR - 2020-02-19 06:03:25 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-02-19 06:15:27 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-02-19 06:17:18 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-02-19 06:17:43 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-02-19 06:18:31 --> 404 Page Not Found: Assets/frontend
