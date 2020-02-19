@@ -14,7 +14,8 @@ data-header-fix-effect="slide">
         <!-- Logo -->
         <a class="navbar-brand u-header__navbar-brand u-header__navbar-brand-center u-header__navbar-brand-text-white" href="<?php echo site_url('home');?>">
           <img src="<?php echo $logo_light;?>"
-          style="height:35px;" />
+          style="width:45px;" />&nbsp;&nbsp;
+          <h4 style="color: #fff; float: left;padding-top:10px;"> <?php echo get_settings('system_title'); ?></h4>
         </a>
         <!-- End Logo -->
 

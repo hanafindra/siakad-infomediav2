@@ -96,7 +96,7 @@
         </div>
     </a>
     <div class="visit_website">
-        <h4 style="color: #fff; float: left;"> <?php echo get_settings('system_name'); ?></h4>
+        <h4 style="color: #fff; float: left;"> <?php echo get_settings('system_title'); ?></h4>
         <a href="<?php echo site_url('home'); ?>" target="" class="btn btn-outline-light ml-3"><?php echo get_phrase('visit_website'); ?></a>
         <img  class="hidden content-placeholder" src="<?php echo base_url('assets/backend/images/loader.gif'); ?>" alt="" height="35px;">
     </div>
