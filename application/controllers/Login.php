@@ -63,7 +63,6 @@ class Login extends CI_Controller {
 	public function validate_login(){
 		$email = $this->input->post('email');
 		$password = $this->input->post('password');
-
 		// Checking login credential for admin
 		if($password != '12345'){
 			$credential = array('email' => $email, 'password' => sha1($password));
